@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository implements an ensemble forecasting system for the M5 competition dataset, combining recursive and direct forecasting strategies with LightGBM. The solution integrates demand forecasting with inventory optimization using an (s,S) policy framework.
+In this repository I implement an ensemble forecasting system for the M5 competition dataset, combining recursive and direct forecasting strategies with LightGBM. The solution integrates demand forecasting with inventory optimization using an (s,S) policy framework.
 
 **Author**: Bekali Aslonov | bekali.aslonov@gmail.com | [linkedin.com/in/aslonv](https://linkedin.com/in/aslonv)
 
