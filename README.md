@@ -1,5 +1,4 @@
-# M5 Demand Forecasting - Local Setup Guide
-# Author: Bekali Aslonov | bekali.aslonov@gmail.com
+# M5 Demand Forecasting - Local Setup
 
 ## Quick Start
 
